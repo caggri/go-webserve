@@ -1,3 +1,3 @@
-module github.com/caggri/go-webserve/cmd/webserve
+module caggri.com/webserve
 
 go 1.24.10
